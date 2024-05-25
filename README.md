@@ -17,6 +17,6 @@ Steps to deploy using surge:
 4. provide path\build and press enter
 5. modify url and press enter, you will get domain name(your-url.surge.sh)
 
-### Project link
+### Live
 
-https://worthless-waves.surge.sh/
+https://box-office-movies-app.surge.sh/
